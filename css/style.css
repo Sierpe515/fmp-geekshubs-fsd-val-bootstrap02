@@ -1,0 +1,71 @@
+body {
+    background-color: aquamarine;
+}
+
+.box1 {
+    background-color: aqua;
+}
+
+.box1-1 {
+    background-color: aquamarine;
+    height: 100px;
+}
+
+.box2 {
+    background-color: yellow;
+}
+
+.box2-1 {
+    background-color: greenyellow;
+    height: 400px;
+}
+
+.box2-2 {
+    background-color: violet;
+    height: 400px;
+}
+
+.box3 {
+    background-color: firebrick;
+}
+
+.box3-1 {
+    background-color: azure;
+    height: 200px;
+}
+
+.box3-2 {
+    background-color: sandybrown;
+    height: 200px;
+}
+
+.box3-3 {
+    background-color: teal;
+    height: 200px;
+}
+
+.box3-4 {
+    background-color: red;
+    height: 200px;
+}
+
+.box3-5 {
+    background-color: rebeccapurple;
+    height: 200px;
+}
+
+.box3-6 {
+    background-color: peru;
+    height: 200px;
+}
+
+
+.box4 {
+    background-color: purple;
+    height: 20vh;
+}
+
+.box4-1 {
+    background-color: blue;
+    height: 150px;
+}
